@@ -8,7 +8,6 @@ The e2e targets are setup to serve the app statically from dist:
 <img src="static_e2e.png">
 
 this is how the apps are served statically:
-
 ```json
     "serve-static": {
       "executor": "@nrwl/web:file-server",
